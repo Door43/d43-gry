@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gry:home|Door43 (gry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gry|d43-gry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gry/archive/master.zip|d43-gry.zip]]
+
+**Recent Changes**
+{{changes>ns = gry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gry|Ethnologue data]]
+
